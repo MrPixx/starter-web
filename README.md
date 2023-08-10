@@ -11,8 +11,12 @@ using a web project.
 
 ## Purpose
 
-Sample website with plenty of files for demos.
+As stated above, the mail purpose is to
+proide simple examples for GIT training demos.
 
 ## Deployment
+
+This is asimple web project, deployment
+can be on any web server or even local file system.
 
 ## How To Contribute
