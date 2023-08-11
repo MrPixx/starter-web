@@ -2,7 +2,8 @@
 
 This repository is a simple website Project
 for showing how Git and GitHub work.
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more
+changes to myfeature too.
 
 ## Introduction
 
